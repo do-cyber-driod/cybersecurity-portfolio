@@ -30,8 +30,17 @@ detected 50 Nmap port scan alerts from Kali Linux in real time.
 
 ---
 
-### 3. Vulnerability Assessment — Coming Soon
-Metasploitable 2 vulnerability assessment using Nessus Essentials.
+
+### 3. Vulnerability Assessment — Metasploitable2
+Conducted a full vulnerability assessment against Metasploitable2 using 
+Nessus Essentials. Identified 73 vulnerabilities including 5 CVSS 10.0 
+critical findings — backdoors, remote shell access, and unauthenticated 
+services. Documented findings and remediation recommendations mapped to 
+the NIST Cybersecurity Framework.
+
+**Tools:** Nessus Essentials, Metasploitable2, VirtualBox, Ubuntu
+🔗 [View Project](https://github.com/do-cyber-driod/metasploitable2-vulnerability-assessment)
+
 
 ---
 
